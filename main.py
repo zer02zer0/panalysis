@@ -1,3 +1,4 @@
+from guimodel import tkgui
 
 def main():
   pass
